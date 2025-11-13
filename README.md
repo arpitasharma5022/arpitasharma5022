@@ -33,7 +33,7 @@ Low-cost seismic alert system integrating sensors, buzzer, LCD, and ThingSpeak d
 ## 🌐 Connect With Me
 📧 **Email:** [arpitasharma5022@gmail.com](mailto:arpitasharma5022@gmail.com)  
 💼 **LinkedIn:** [Arpita Sharma](https://www.linkedin.com/in/arpita-sharma-686044358/)  
-💻 **GitHub:** [@yourusername](https://github.com/arpitasharma5022)
+💻 **GitHub:** [@arpitasharma5022](https://github.com/arpitasharma5022)
 
 ---
 

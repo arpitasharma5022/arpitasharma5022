@@ -16,16 +16,16 @@
 
 ## 🧩 Featured Projects
 
-🔹 **[Face Recognition Attendance System](https://github.com/yourusername/Face_Recognition_Attendance)**  
+🔹 **[Face Recognition Attendance System](https://github.com/arpitasharma5022/Face-Recognition-Attendance-System)**  
 AI-based attendance system using OpenCV and machine learning for real-time face recognition.
 
-🔹 **[Gesture-Controlled Robot](https://github.com/yourusername/Gesture_Controlled_Robot)**  
+🔹 **[Gesture-Controlled Robot](https://github.com/arpitasharma5022/Gesture_Controlled_Robot)**  
 Robotic car controlled by hand gestures using accelerometer and Arduino with RF communication.
 
-🔹 **[Smart Home Automation System](https://github.com/yourusername/Smart_Home_Automation)**  
+🔹 **[Smart Home Automation System](https://github.com/arpitasharma5022/Smart-Home-Automation-System-Arduino-IoT-Google-Assistant-)**  
 IoT-based home automation with smartphone app and Google Assistant voice control.
 
-🔹 **[Earthquake Detection & IoT Monitoring System](https://github.com/yourusername/Earthquake_Detection_IoT)**  
+🔹 **[Earthquake Detection & IoT Monitoring System](https://github.com/arpitasharma5022/Earthquake-Detection-and-Monitoring-over-IoT)**  
 Low-cost seismic alert system integrating sensors, buzzer, LCD, and ThingSpeak dashboard.
 
 ---
@@ -33,7 +33,7 @@ Low-cost seismic alert system integrating sensors, buzzer, LCD, and ThingSpeak d
 ## 🌐 Connect With Me
 📧 **Email:** [arpitasharma5022@gmail.com](mailto:arpitasharma5022@gmail.com)  
 💼 **LinkedIn:** [Arpita Sharma](https://www.linkedin.com/in/arpita-sharma-686044358/)  
-💻 **GitHub:** [@yourusername](https://github.com/yourusername)
+💻 **GitHub:** [@yourusername](https://github.com/arpitasharma5022)
 
 ---
 
